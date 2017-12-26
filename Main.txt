@@ -1,3 +1,4 @@
 Main Text file
-Git의 작동 
-Direct 교환 가능
+ 
+메인텍스트파일에 내용
+1234567890
