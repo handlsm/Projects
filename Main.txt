@@ -1,0 +1,3 @@
+Main Text file
+Git의 작동 
+Direct 교환 가능
